@@ -1,0 +1,12 @@
+JeuDeRole:
+"CombatGentil"
+RULES:
+
+1. Arrêtez vos autre docker-compose
+2. Créez un nouveau répertoire
+3. Décompressez tout le fichier zip dans ce répertoire
+5. Allez sur http://localhost:9000/ et entrez dans PhpMyAdmin avec les identifiants habituels
+6. Remettez le script .sql que je vous ai donné
+7. Allez sur http://localhost:8080/
+8. Lisez les règles
+9. Combattez à coup de roquettes... Heu, de requêtes !
